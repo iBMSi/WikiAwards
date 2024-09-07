@@ -390,16 +390,16 @@ let anos = [
     tag: "Elden Ring, God of War Ragnarök, Stray, 2022"
   },
   {
-    Ano: "2023",
-    JogodoAno: "The Legend of Zelda: Tears of the Kingdom",
-    MelhorDireção: "Alan Wake II",
-    MelhorNarrativa: "Baldur's Gate 3",
-    MelhorAtuação: "Yuri Lowenthal como Peter Parker em Marvel's Spider-Man 2",
-    MelhorTrilhaSonora: "Alan Wake II",
-    MelhorDesigndeaudio: "Dead Space",
-    MelhorDesigndeJogo: "Baldur's Gate 3",
-    MelhorJogoIndependente: "Dave the Diver",
-    MelhorJogodeRealidadeVirtual: "Horizon Call of the Mountain",
-    tag: "The Legend of Zelda: Tears of the Kingdom, Baldur's Gate 3, Dave the Diver, 2023"
-  }
+  Ano: "2023",
+  JogodoAno: "Baldur's Gate 3",
+  MelhorDireção: "Alan Wake II",
+  MelhorNarrativa: "Baldur's Gate 3",
+  MelhorAtuação: "Ben Starr como Clive Rosfield em Final Fantasy XVI",
+  MelhorTrilhaSonora: "Alan Wake II",
+  MelhorDesigndeaudio: "Hi-Fi Rush",
+  MelhorDesigndeJogo: "Baldur's Gate 3",
+  MelhorJogoIndependente: "Dave the Diver",
+  MelhorJogodeRealidadeVirtual: "Resident Evil 4",
+  tag: "Baldur's Gate 3, Alan Wake II, Dave the Diver, 2023"
+}
 ];
