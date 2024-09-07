@@ -211,3 +211,15 @@ footer {
     padding: 10px; /* Adiciona um espaço interno de 10 pixels em todos os lados do link */
     cursor: pointer; /* Muda o cursor para uma mãozinha ao passar o mouse sobre o link, indicando que é clicável */
   }
+
+
+  .ano-botao {
+    padding: 0.6rem 0.6rem; /* Espaçamento interno do botão */
+    border: none; /* Remove a borda padrão */
+    border-radius: 4rem; /* Borda arredondada */
+    background-color: #07335f; /* Cor de fundo do botão */
+    color: #F5F7F8; /* Cor do texto do botão */
+    font-size: 1rem; /* Tamanho da fonte */
+    cursor: pointer; /* Muda o cursor para indicar que é clicável */
+    margin: 0.1rem; /* Adiciona 0.5rem de margem em todos os lados */
+}
